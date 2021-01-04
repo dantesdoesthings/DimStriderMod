@@ -1,0 +1,16 @@
+out
+production
+classes
+*.ipr
+*.iws
+*.iml
+.idea
+
+build
+.gradle
+
+run
+!LICENSE
+!README.*
+!.gitignore
+*.DS_Store*
